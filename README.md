@@ -1,7 +1,21 @@
 ## Hi there, I'm Xiangzhe 👋
 
 > Open source is my passion and my creed. I stand by its power to transform the world.  
-> 开源是爱好，更是信仰。我愿以开源之力推动世界改变。
+> 开源是爱好，更是信仰。我愿以开源之力推动世界改变。  
+
+### Recent Updates
+
+**2025.12** - Left [Klavis AI](https://github.com/Klavis-AI), embarking on a new journey.
+
+**Currently Exploring**:
+- OS internals & Linux Kernel scheduling
+- Distributed systems architecture
+- Infrastructure automation & IaC
+
+**Looking for**: Backend / Full-stack / Systems Integration roles (e.g., GitLab-like platforms, open-source DevOps tools)
+
+> I believe truly "useful" AI should be built on infrastructure that humans can understand and debug — not black boxes.  
+> Rather than the AI application layer, I prefer to go deep into the foundational systems that power AI: distributed systems, operating systems, and infrastructure automation.  
 
 ### Projects & Contributions
 
