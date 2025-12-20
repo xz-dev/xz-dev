@@ -3,6 +3,14 @@
 > Open source is my passion and my creed. I stand by its power to transform the world.
 > 开源是爱好，更是信仰。我愿以开源之力推动世界改变。
 
+### Projects & Contributions
+
+I'm actively involved in several open source and blockchain projects:
+
+- **[UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)** - An Android application for checking updates for apps, Magisk modules and more
+- **[DUpdateSystem](https://github.com/DUpdateSystem)** - An organization focused on building update systems and tools, including server-side components and cross-platform update solutions
+- **[FragThing](https://github.com/orgs/FragThing/)** - A blockchain project building a UPA computing resources network with distributed infrastructure
+
 ### Certifications [credly](https://www.credly.com/users/xz-dev)
 
 <table>
