@@ -1,6 +1,6 @@
 ## Hi there, I'm Xiangzhe 👋
 
-> Open source is my passion and my creed. I stand by its power to transform the world.
+> Open source is my passion and my creed. I stand by its power to transform the world.  
 > 开源是爱好，更是信仰。我愿以开源之力推动世界改变。
 
 ### Projects & Contributions
