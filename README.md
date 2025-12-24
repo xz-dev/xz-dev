@@ -28,25 +28,25 @@ I'm actively involved in several open source and blockchain projects:
   - **[getter](https://github.com/DUpdateSystem/getter)** - A cross-platform update tool core and CLI, currently used in UpgradeAll
 - **[FragThing](https://github.com/orgs/FragThing/)** - A blockchain project building a UPA computing resources network with distributed infrastructure
 
-### Certifications [credly](https://www.credly.com/users/xz-dev)
+### Certifications ([credly](https://www.credly.com/users/xz-dev))
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="33.33%">
       <a href="https://www.credly.com/badges/78cfc313-d61c-4c66-bcef-349638a453c1/public_url">
         <img src="https://images.credly.com/size/110x110/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="RHCE" width="110" height="110"/>
       </a>
       <br/>
       <sub><b>Red Hat Certified Engineer</b></sub>
     </td>
-    <td align="center">
+    <td align="center" width="33.33%">
       <a href="https://www.credly.com/badges/c84f4a09-e0a5-42d9-b608-f58e41ec08ac/public_url">
         <img src="https://images.credly.com/size/110x110/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="RHCSA" width="110" height="110"/>
       </a>
       <br/>
       <sub><b>Red Hat Certified System Administrator</b></sub>
     </td>
-    <td align="center">
+    <td align="center" width="33.33%">
       <a href="https://www.credly.com/badges/0cfd8071-3eeb-439f-9d89-70d8494a1225/public_url">
         <img src="https://images.credly.com/size/110x110/images/3d6d8ffb-3db5-4e99-a0ac-03df225474f9/image.png" alt="RVFA" width="110" height="110"/>
       </a>
