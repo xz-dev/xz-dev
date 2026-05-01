@@ -6,14 +6,14 @@
 
 ### Recent Updates
 
-**2025.12** - Left [Klavis AI](https://github.com/Klavis-AI), embarking on a new journey.
+**2026.05** - Joined [Capital Dynamics](https://www.capdyn.com).  
+**2025.12** - Left [Klavis AI](https://github.com/Klavis-AI), embarking on a new journey.  
 
 **Currently Exploring**:
 - OS internals & Linux Kernel scheduling
-- Distributed systems architecture
+- AI agent infrastructure & tool protocols
+- Rust systems programming
 - Infrastructure automation & IaC
-
-**Looking for**: Backend / Full-stack / Systems Integration roles (e.g., GitLab-like platforms, open-source DevOps tools)
 
 > I believe truly "useful" AI should be built on infrastructure that humans can understand and debug — not black boxes.  
 >
