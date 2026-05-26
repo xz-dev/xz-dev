@@ -34,7 +34,7 @@ I'm actively involved in several open source and blockchain projects:
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/78cfc313-d61c-4c66-bcef-349638a453c1/public_url">
-        <img src="https://images.credly.com/size/110x110/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="RHCE" width="110" height="110"/>
+        <img src="https://images.credly.com/size/110x110/images/7d4ee7c1-e4ef-434c-897b-7e2161243428/blob" alt="RHCE" width="110" height="110"/>
       </a>
       <br/>
       <sub><b>Red Hat Certified Engineer</b></sub>
