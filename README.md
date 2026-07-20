@@ -4,6 +4,8 @@
 >
 > 开源是爱好，更是信仰。我愿以开源之力推动世界改变。  
 
+Looking for new job on OS/Infrastructure or AI agent.  
+
 ### Recent Updates
 
 **2026.05** - Joined [Capital Dynamics](https://www.capdyn.com), develop on AI Agent and AI Infra.  
