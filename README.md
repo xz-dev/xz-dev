@@ -8,7 +8,7 @@ Looking for new job on OS/Infrastructure or AI agent.
 
 ### Recent Updates
 
-**2026.05** - Joined [Capital Dynamics](https://www.capdyn.com), develop on AI Agent and AI Infra.  
+**2026.05** - Joined [Capital Dynamics](https://www.icapital.biz/), develop on AI Agent and AI Infra.  
 **2025.12** - Left [Klavis AI](https://github.com/Klavis-AI), embarking on a new journey.  
 
 **Currently Exploring**:
