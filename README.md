@@ -9,7 +9,7 @@
 > [!IMPORTANT]
 > Looking for new job on OS/Infrastructure or AI Agent.  
 
-**2026.05** - Joined [Capital Dynamics](https://www.icapital.biz/), develop on AI Agent, AI Infra and Full-stack development for the company's main business lines.  
+**2026.05-2026-11** - Left [Capital Dynamics](https://www.icapital.biz/), develop on AI Agent, AI Infra and Full-stack development for the company's main business lines.  
 **2025.12** - Left [Klavis AI](https://github.com/Klavis-AI), embarking on a new journey.  
 
 **Currently Exploring**:
